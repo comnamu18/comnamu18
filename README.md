@@ -1,8 +1,6 @@
 ## Hello World 👋
 
-🔭 I’m currently working on AI based Prototyping in KaKao Enterprise.
-
-🌱 I’m currently learning Full Stack Deep Learning.
+🔭 I’m currently working on making AI API Service in KaKao Enterprise.
 
 📫 How to reach me: comnamu18@gmail.com
 
